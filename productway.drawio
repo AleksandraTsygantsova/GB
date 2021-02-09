@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T08:12:11.783Z" agent="5.0 (Windows)" etag="493YJR9vGOc-dcHnOs6e" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T08:46:18.561Z" agent="5.0 (Windows)" etag="B9kHeup7wiym9zpLZUk-" version="14.2.9" type="github">
   <diagram id="H3-4zY_dl16-pE3fcs3A" name="Page-1">
     <mxGraphModel dx="1021" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,10 +8,10 @@
           <mxGeometry x="120" y="20" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-2" value="Преимущества анализа рынка по фискальным данным" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="400" height="60" as="geometry" />
+          <mxGeometry x="120" y="100" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-3" value="Product Way - в чем наша особенность и какие технологии используем" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="300" width="400" height="60" as="geometry" />
+          <mxGeometry x="120" y="180" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qgN8fIEhzLymv8GiFc2B-4" target="qgN8fIEhzLymv8GiFc2B-11">
           <mxGeometry relative="1" as="geometry" />
@@ -26,31 +26,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-4" value="Ключевые модули" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="120" y="430" width="400" height="60" as="geometry" />
+          <mxGeometry x="120" y="260" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-5" value="Карта покрытия" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="560" width="400" height="60" as="geometry" />
+          <mxGeometry x="120" y="350" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-6" value="Расчет стоимости" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="700" width="400" height="60" as="geometry" />
+          <mxGeometry x="120" y="440" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-7" value="Новости" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="840" width="400" height="60" as="geometry" />
+          <mxGeometry x="120" y="530" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qgN8fIEhzLymv8GiFc2B-8" value="Контакты + Оставить заявку" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="120" y="1000" width="400" height="60" as="geometry" />
+        <mxCell id="qgN8fIEhzLymv8GiFc2B-8" value="Контакты + Оставить заявку" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="620" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-9" value="Сенсус (карточка)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="430" width="130" height="20" as="geometry" />
+          <mxGeometry x="600" y="260" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-10" value="АКБ (карточка)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="460" width="130" height="20" as="geometry" />
+          <mxGeometry x="600" y="290" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-11" value="Селл-аут (карточка)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="400" width="130" height="20" as="geometry" />
+          <mxGeometry x="600" y="230" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-12" value="МА (карточка)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="490" width="130" height="20" as="geometry" />
+          <mxGeometry x="600" y="320" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
