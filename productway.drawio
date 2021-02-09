@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-09T09:33:56.215Z" agent="5.0 (Windows)" etag="L5_LjkS1-g14KgO-S5e1" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-09T12:21:33.554Z" agent="5.0 (Windows)" etag="tKCpy_l7Umio7JSyMIUV" version="14.2.9" type="github">
   <diagram id="H3-4zY_dl16-pE3fcs3A" name="Page-1">
     <mxGraphModel dx="1021" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,10 +28,10 @@
         <mxCell id="qgN8fIEhzLymv8GiFc2B-4" value="Ключевые модули" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qgN8fIEhzLymv8GiFc2B-5" value="Карта покрытия" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qgN8fIEhzLymv8GiFc2B-5" value="Карта покрытия" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="350" width="400" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qgN8fIEhzLymv8GiFc2B-6" value="Расчет стоимости" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="qgN8fIEhzLymv8GiFc2B-6" value="Расчет стоимости" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="440" width="400" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qgN8fIEhzLymv8GiFc2B-7" value="Новости" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
